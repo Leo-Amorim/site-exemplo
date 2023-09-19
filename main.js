@@ -1,3 +1,1 @@
-document.body.style.backgroundColor = "blue";
-
-console.log("jsWorkando");
+document.body.style.backgroundColor = "black";
